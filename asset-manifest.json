@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-3-record-tracker/static/css/main.f45c5758.css",
+    "main.js": "/r-3-record-tracker/static/js/main.d5994740.js",
+    "index.html": "/r-3-record-tracker/index.html",
+    "main.f45c5758.css.map": "/r-3-record-tracker/static/css/main.f45c5758.css.map",
+    "main.d5994740.js.map": "/r-3-record-tracker/static/js/main.d5994740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45c5758.css",
+    "static/js/main.d5994740.js"
+  ]
+}
